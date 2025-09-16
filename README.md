@@ -6,4 +6,4 @@ def main():
     print(f"Hello GitHub! Today is {today}")
 
 if __name__ == "__main__":
-    mai()
+    main()
